@@ -2,10 +2,10 @@
 <%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="PassParamToContentUrlPage" %>
 
 
-<%@ Register Assembly="DevExpress.Web.ASPxEditors.v8.1" Namespace="DevExpress.Web.ASPxEditors"
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxEditors"
     TagPrefix="dxe" %>
 
-<%@ Register Assembly="DevExpress.Web.v8.1" Namespace="DevExpress.Web.ASPxPopupControl"
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxPopupControl"
     TagPrefix="dxpc" %>
 
 <%@ Register Assembly="System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
