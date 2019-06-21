@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # PopupControl - How to pass parameter to Parent Window (from ContentUrl page)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e347/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to <strong>pass a parameter</strong> to parent window from child window (content url page) and <strong>close</strong> the parent <strong>PopupControl</strong>.<br />
