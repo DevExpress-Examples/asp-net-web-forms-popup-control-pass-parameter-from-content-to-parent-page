@@ -12,7 +12,7 @@
 <!-- default file list end -->
 # PopupControl - How to pass parameter to Parent Window (from ContentUrl page)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e347/)**
+**[[Run Online]](https://codecentral.devexpress.com/128565776/)**
 <!-- run online end -->
 
 
