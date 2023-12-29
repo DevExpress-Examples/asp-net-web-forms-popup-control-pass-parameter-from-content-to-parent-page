@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Popup Control for ASP.NET Web Forms - How to pass a parameter from the content to parent page
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128565776/)**
-<!-- run online end -->
 
 This example demonstrates how to use the `ContentUrl` property to specify the pop-up window's content, pass a parameter from the content to parent page, and close the pop-up window.
 
